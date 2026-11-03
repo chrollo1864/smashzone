@@ -1,0 +1,6 @@
+{
+  "name": "SmashZone - Sports Court Booking & Community Hub",
+  "description": "Premier sports facility platform inspired by SmashPlus.ph for badminton and pickleball court reservations, open play, live queueing, coaching, and facility management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
